@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-e02dd7) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-1-0-pro-quality-prompts-pt](https://github.com/onpfo05pvnb/seedance-1-0-pro-quality-prompts-pt)
+- **Same model, other languages** — 9 more language builds: 中文 [seedance-1-0-pro-quality-api-cn](https://github.com/lo0-trmv3dup2/seedance-1-0-pro-quality-api-cn) · Deutsch [seedance-1-0-pro-quality-api-de](https://github.com/qt89oz47ugft9i/seedance-1-0-pro-quality-api-de) · Español [seedance-1-0-pro-quality-api-es](https://github.com/g708boud1/seedance-1-0-pro-quality-api-es) · Français [seedance-1-0-pro-quality-api-fr](https://github.com/fdu-6/seedance-1-0-pro-quality-api-fr) · Relay/gateway [seedance-1-0-pro-quality-api-gateway](https://github.com/bzo1u6sfkle/seedance-1-0-pro-quality-api-gateway) · Bahasa [seedance-1-0-pro-quality-api-id](https://github.com/i74lkq1472/seedance-1-0-pro-quality-api-id) · 日本語 [seedance-1-0-pro-quality-api-ja](https://github.com/fkqozxa1p/seedance-1-0-pro-quality-api-ja) · 한국어 [seedance-1-0-pro-quality-api-ko](https://github.com/t26b6qupjc93k7/seedance-1-0-pro-quality-api-ko) · Русский [seedance-1-0-pro-quality-api-ru](https://github.com/rb5mqsn/seedance-1-0-pro-quality-api-ru)
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [seedance-1-0-pro-quality](https://github.com/topics/seedance-1-0-pro-quality) · [seedance-1-0-pro-quality-api](https://github.com/topics/seedance-1-0-pro-quality-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
